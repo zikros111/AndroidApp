@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основные цвета -->
+    <color name="primary">#7C4DFF</color>
+    <color name="primary_variant">#651FFF</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <!-- Дополнительные цвета -->
+    <color name="secondary">#03DAC6</color>
+    <color name="secondary_variant">#018786</color>
+    <color name="on_secondary">#000000</color>
+
+    <!-- Базовые цвета -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="purple_200">#BBDEFB</color>
+    <color name="purple_500">#7C4DFF</color>
+    <color name="purple_700">#651FFF</color>
+
+    <!-- Фоновые цвета -->
+    <color name="background">#FAFAFA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_background">#1C1B1F</color>
+    <color name="on_surface">#1C1B1F</color>
+
+    <!-- Навигация -->
+    <color name="navigation_text">#1C1B1F</color>
+    <color name="navigation_selected">#7C4DFF</color>
+
+    <!-- Приоритеты -->
+    <color name="priority_0">#E8F5E8</color>
+    <color name="priority_1">#C8E6C9</color>
+    <color name="priority_2">#A5D6A7</color>
+    <color name="priority_3">#81C784</color>
+    <color name="priority_4">#66BB6A</color>
+    <color name="priority_5">#FFF3E0</color>
+    <color name="priority_6">#FFCC02</color>
+    <color name="priority_7">#FF9800</color>
+    <color name="priority_8">#FF5722</color>
+    <color name="priority_9">#F44336</color>
+    <color name="priority_10">#D32F2F</color>
+
+    <!-- Статусы -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF9800</color>
+    <color name="error">#F44336</color>
+    <color name="info">#2196F3</color>
+
+    <!-- Геймификация -->
+    <color name="xp_bar">#7C4DFF</color>
+    <color name="xp_background">#E1BEE7</color>
+    <color name="achievement_gold">#FFD700</color>
+    <color name="achievement_silver">#C0C0C0</color>
+    <color name="achievement_bronze">#CD7F32</color>
+</resources>
